@@ -23,8 +23,8 @@
 Clone the repository from GitHub:
 
 ```sh
-$ git clone https://github.com/Qrh9/Mypro.git
-$ cd Mypro
+ git clone https://github.com/Qrh9/Mypro.git
+ cd Mypro
 ```
 
 ### Install Dependencies
@@ -32,7 +32,7 @@ $ cd Mypro
 Install the required Python packages:
 
 ```sh
-$ pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 
 ### Run the Tool
@@ -40,7 +40,7 @@ $ pip install -r requirements.txt
 To run the tool, use:
 
 ```sh
-$ python Mypro.py
+ python3 Mypro.py
 ```
 
 ## Usage
